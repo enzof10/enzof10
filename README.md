@@ -1,6 +1,6 @@
 *always learning*
 
-👋 My name is Enzo Frias Borda
+👋 Hi, my name is Enzo Frias Borda
 
 
 * Currently working for @taggify  (https://github.com/taggify) as a fullStack developer
