@@ -4,7 +4,6 @@
 
 * Currently working for @taggify  (https://github.com/taggify) as a fullStack developer
 * I am also studying software development in a self-taught and official way
-* 
 
 ## Skills 
 * JavaScript
